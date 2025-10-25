@@ -6,7 +6,7 @@ surName = "Khan";
 // Type Assertion
 let surName3 = <string>surName;
 
-// Type Aliaces
+// Type Alias
 
 type stringOrNum = string | number;
 let surName2: stringOrNum;
